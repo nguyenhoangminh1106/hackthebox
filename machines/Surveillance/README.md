@@ -1,1 +1,1 @@
-THE WRITE-UP IS READY !!!
+You can download file or use this link to view my write-up: https://nguyenhoangminh1106.github.io/hackthebox/machines/Surveillance/surveillance.html
