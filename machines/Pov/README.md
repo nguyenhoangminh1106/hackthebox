@@ -1,3 +1,1 @@
-THE WRITE-UP IS READY !!!
-
-Hi there, sorry for not publishing the write-up as this machine hasn't retired. Please contact me for this write-up privately =). This write-up will be available for public view when the machine is retired.
+You can download file or use this link to view my write-up: https://nguyenhoangminh1106.github.io/hackthebox/machines/Pov/pov.html
